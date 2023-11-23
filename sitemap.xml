@@ -2,4 +2,13 @@
 	<url>
 		<loc>http://nadzory.szczecin.pl/index.html</loc>
 	</url>
+	<url>
+		<loc>http://nadzory.szczecin.pl/badaniaNowogard.html</loc>
+	</url>
+	<url>
+		<loc>http://nadzory.szczecin.pl/nadzorChojna.html</loc>
+	</url>
+	<url>
+		<loc>http://nadzory.szczecin.pl/badaniaWolin.html</loc>
+	</url>
 </urlset>
