@@ -1,14 +1,14 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://archeolog.szczecin.pl/index.html</loc>
+		<loc>https://archeolog.szczecin.pl/index.html</loc>
 	</url>
 	<url>
-		<loc>http://archeolog.szczecin.pl/badaniaNowogard.html</loc>
+		<loc>https://archeolog.szczecin.pl/badania-archeologiczne-nowogard.html</loc>
 	</url>
 	<url>
-		<loc>http://archeolog.szczecin.pl/nadzorChojna.html</loc>
+		<loc>https://archeolog.szczecin.pl/nadzor-archeologiczny-chojna.html</loc>
 	</url>
 	<url>
-		<loc>http://archeolog.szczecin.pl/badaniaWolin.html</loc>
+		<loc>https://archeolog.szczecin.pl/badania-archeologiczne-wolin.html</loc>
 	</url>
 </urlset>
